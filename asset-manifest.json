@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wavedashboard/static/css/main.9e456270.css",
+    "main.js": "/Wavedashboard/static/js/main.3d0733db.js",
+    "static/js/488.11c97597.chunk.js": "/Wavedashboard/static/js/488.11c97597.chunk.js",
+    "index.html": "/Wavedashboard/index.html",
+    "main.9e456270.css.map": "/Wavedashboard/static/css/main.9e456270.css.map",
+    "main.3d0733db.js.map": "/Wavedashboard/static/js/main.3d0733db.js.map",
+    "488.11c97597.chunk.js.map": "/Wavedashboard/static/js/488.11c97597.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e456270.css",
+    "static/js/main.3d0733db.js"
+  ]
+}
